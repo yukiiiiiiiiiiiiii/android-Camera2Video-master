@@ -1,0 +1,4 @@
+#Tue Nov 20 17:33:06 JST 2018
+base.0=C\:\\Users\\b1015\\Downloads\\android-Camera2Video-master\\android-Camera2Video-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
